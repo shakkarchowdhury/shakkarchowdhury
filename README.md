@@ -2,14 +2,14 @@
 
 <p align="center">
   Passionate Software Engineer from East West University<br/>
-  Competitive Programmer • AI Explorer • Robotics Enthusiast
+  Competitive Programmer • AI Explorer 
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate Software Engineer with a strong interest in **AI-integrated systems, robotics, and scalable software development**, currently studying at **East West University**.
+I am a passionate Software Engineer with a strong interest in **AI-integrated systems and scalable software development**, currently studying at **East West University**.
 
 Driven by curiosity, creativity, and a constant pursuit of excellence in technology, I enjoy transforming complex problems into efficient and impactful solutions.
 
@@ -56,6 +56,7 @@ I actively collaborate on projects at the intersection of **hardware + software*
 
 ```text
 Software Engineering
+AI Engineering
 Competitive Programming
 Artificial Intelligence / Machine Learning
 Robotics & Automation

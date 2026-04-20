@@ -26,6 +26,22 @@ I have a solid foundation in Computer Science and actively participate in **comp
 - 🎤 Engage in public speaking and knowledge sharing
 
 ---
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+🟨 JavaScript | 🔷 TypeScript | ⚫ C | 🔵 C++ | ☕ Java | 🐍 Python | 📊 MATLAB | ⚙️ Assembly
+
+### 🌐 Web Development
+🌐 HTML5 | 🎨 CSS3 | ⚡ JavaScript / TypeScript
+
+### 🧠 AI & Data Tools
+🐍 Anaconda | 📊 MATLAB
+
+### 🗄️ Databases
+🟢 SQL | 🍃 MongoDB | 🐘 PostgreSQL
+
+### ⚙️ Systems & Shell
+🐧 Bash | 🖥️ Zsh
 
 ## 🏛️ Communities & Leadership
 

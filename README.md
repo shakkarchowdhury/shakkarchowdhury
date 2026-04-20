@@ -64,4 +64,4 @@ System Design
 Public Speaking
 
 
-📧 Email: [shakkarchowdhuryaunkur@gmail.com](mailto:shakkarchowdhuryaunkur@gmail.com)
+📧 Email: shakkarchowdhuryaunkur@gmail.com

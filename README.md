@@ -1,4 +1,4 @@
-# ⚡ Shakkar — Software Engineer & AI DEVLOPER
+# ⚡ Shakkar — Software Engineer & AI Developer
 
 <p align="center">
   Passionate Software Engineer from East West University<br/>
